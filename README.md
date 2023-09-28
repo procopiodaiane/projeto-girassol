@@ -11,16 +11,16 @@ Contribuição do Hub de Tecnologia Social e Inteligência de Dados na:
 ## Integrantes
 
 * [Daiane Campos Procópio](https://github.com/procopiodaiane)
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+* Daniel Dutra de Aguiar
+* [Edvaldo Gutierres Ferreira](https://github.com/edvaldo-gutierres)
+* [Gabriel Russo Grilo](https://github.com/GabrielRGrilo)
+* Gabrielly Cristiny Gonçalves Andrade
+* Isabela Martins de Carvalho Pereira
+* Janaína de Sousa Lima
+* [João Gabriel Alves](https://github.com/algabr)
+* [Lucas Dias de Melo](https://github.com/lucasmelo7755)
+* Martha Beatriz Siqueira da Silva
+* Samuel Fernandes Teixeira Lages
 
 ## Coordenadora
 
