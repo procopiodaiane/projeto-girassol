@@ -22,6 +22,6 @@ Contribuição do Hub de Tecnologia Social e Inteligência de Dados na:
 * 
 * 
 
-## Orientadora
+## Coordenadora
 
 * Professora Viviane Cristina Dias
