@@ -25,3 +25,8 @@ Contribuição do Hub de Tecnologia Social e Inteligência de Dados na:
 ## Coordenadora
 
 * Professora Viviane Cristina Dias
+
+## Ferramentas em estudo
+
+* [Pen to Print](https://www.pen-to-print.com/)
+* [OCR em Python (Edvaldo)](https://github.com/edvaldo-gutierres/OCR_pucminas)
