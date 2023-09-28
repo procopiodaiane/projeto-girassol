@@ -19,7 +19,7 @@ Contribuição do Hub de Tecnologia Social e Inteligência de Dados na:
 * Janaína de Sousa Lima
 * [João Gabriel Alves](https://github.com/algabr)
 * [Lucas Dias de Melo](https://github.com/lucasmelo7755)
-* Martha Beatriz Siqueira da Silva
+* [Martha Beatriz Siqueira da Silva](https://github.com/marthabea)
 * Samuel Fernandes Teixeira Lages
 
 ## Coordenadora
