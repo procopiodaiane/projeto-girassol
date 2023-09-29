@@ -14,7 +14,7 @@ Contribuição do Hub de Tecnologia Social e Inteligência de Dados na:
 * Daniel Dutra de Aguiar
 * [Edvaldo Gutierres Ferreira](https://github.com/edvaldo-gutierres)
 * [Gabriel Russo Grilo](https://github.com/GabrielRGrilo)
-* Gabrielly Cristiny Gonçalves Andrade
+* [Gabrielly Cristiny Gonçalves Andrade](https://github.com/gabsandrade)
 * [Isabela Martins de Carvalho Pereira](https://github.com/isabelamartinez)
 * Janaína de Sousa Lima
 * [João Gabriel Alves](https://github.com/algabr)
